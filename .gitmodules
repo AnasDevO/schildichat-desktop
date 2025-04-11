@@ -1,12 +1,12 @@
 [submodule "matrix-js-sdk"]
 	path = matrix-js-sdk
 	url = https://github.com/SchildiChat/matrix-js-sdk.git
-[submodule "element-web"]
-	path = element-web
-	url = https://github.com/SchildiChat/element-web.git
-[submodule "element-desktop"]
-	path = element-desktop
-	url = https://github.com/SchildiChat/element-desktop.git
 [submodule "compound-web"]
 	path = compound-web
 	url = https://github.com/SchildiChat/compound-web.git
+[submodule "element-desktop"]
+	path = element-desktop
+	url = https://github.com/AnasDevO/element-desktop.git
+[submodule "element-web"]
+	path = element-web
+	url = https://github.com/AnasDevO/element-web.git
